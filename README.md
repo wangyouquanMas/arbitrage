@@ -10,6 +10,14 @@ To run this bot, you'll need a Solana RPC node and a self-hosted Jupiter v6 node
 
 2. Run The Jupiter v6 Node
 
+how to run the jupiter v6 node:
+
+```
+git clone https://github.com/jito-labs/jupiter-swap-api.git
+cd jupiter-swap-api
+```
+
+
 enable `--allow-circular-arbitrage`
 
 ```
