@@ -100,7 +100,7 @@ Reach out to Triton: Triton
 
 2. 如何使用付费RPC节点，来跑V6节点
 主动轮询
-./jupiter-swap-api --rpc-url "https://mainnet.helius-rpc.com/?api-key=c9a7aa2a-c8b6-4720-87e0-aa975aba56b7" --allow-circular-arbitrage --filter-markets-with-mints So11111111111111111111111111111111111111112 EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v --snapshot-poll-interval-ms 10000 --total-thread-count 6 --host 0.0.0.0 --port 8080
+./jupiter-swap-api --rpc-url "https://mainnet.helius-rpc.com/?api-key=c9a7aa2a-c8b6-4720-87e0-aa975aba56b7" --allow-circular-arbitrage --filter-markets-with-mints So11111111111111111111111111111111111111112 EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v --snapshot-poll-interval-ms 3000 --total-thread-count 6 --host 0.0.0.0 --port 8080
 
 
 yellowstone 使用helius 的rpc 节点，自动推送最新的账户更新，比主动轮询的效率更高：instantly detect liquidity and price changes across DEXes

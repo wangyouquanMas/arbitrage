@@ -17,7 +17,7 @@ import bs58 from 'bs58';
 const payer = getKeypairFromEnvironment("SECRET_KEY");
 console.log('payer:', payer.publicKey.toBase58())
 
-const connection = new Connection('https://mainnet.helius-rpc.com/?api-key=c9a7aa2a-c8b6-4720-87e0-aa975aba56b7', 'processed');
+const connection = new Connection('https://mainnet.helius-rpc.com/?api-key=填写Helius API', 'processed');
 const quoteUrl = 'http://127.0.0.1:8080/quote';
 const swapInstructionUrl = 'http://127.0.0.1:8080/swap-instructions';
 
