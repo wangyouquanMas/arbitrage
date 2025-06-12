@@ -137,6 +137,7 @@ arbitrage/
 
 
 ## 📖 参考资料
+web3入门培训课程：https://web3ite.fun/
 
 - 📚 [SolanaMevBot 文档](https://docs.solanamevbot.com/home)
 - 🔗 [Jupiter Quote API](https://dev.jup.ag/docs/api/swap-api/quote)
