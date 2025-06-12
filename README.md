@@ -134,3 +134,13 @@ arbitrage/
 
 创建 `.env` 文件：
 在其中填写你的私钥
+
+
+## 📖 参考资料
+
+- 📚 [SolanaMevBot 文档](https://docs.solanamevbot.com/home)
+- 🔗 [Jupiter Quote API](https://dev.jup.ag/docs/api/swap-api/quote)
+- 🔗 [Jupiter Swap API](https://dev.jup.ag/docs/api/swap-api/swap)
+- 🛠️ [Jupiter Self-Hosted API](https://dev.jup.ag/docs/old/apis/self-hosted)
+
+---
